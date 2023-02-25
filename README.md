@@ -100,8 +100,6 @@ npm start
 ```
 # Example SimpleAICollection :rocket:
 
-**The windows where users choose to log in with their Google credentials could not be captured, so no actions or movements in this section are visible**
-
 <img src="doc/Frameblock.gif" alt="System Architecture" width="800" height="400"/>
 
 > * [VIDEO](doc/Frameblock.mp4)

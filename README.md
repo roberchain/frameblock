@@ -14,6 +14,8 @@ Frameblock is a solution that we have developed to simplify and enhance the use 
 We have developed a success story called __Simple AI Collection__ which we explain below:
 
  __Simple AI Collection__ is a web application that allows users to search, select and create their own collection of artificial intelligence images. The application uses modern technologies such as React, IPFS and smart contracts to store and manage the collections.
+ 
+  🚧 [Code is being refactored..](https://github.com/roberchain/simpleAICollection)
 
 ## Functionalities :gear:
 

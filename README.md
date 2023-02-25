@@ -96,7 +96,7 @@ NEXT_PUBLIC_STRIPE_PRICE_ID = ""        ### PAYMENT GATEWAY PRICE ID
 cd src
 npm start
 ```
-# Example SImpleAICollection :rocket:
+# Example SimpleAICollection :rocket:
 
 **The windows where users choose to log in with their Google credentials could not be captured, so no actions or movements in this section are visible**
 
